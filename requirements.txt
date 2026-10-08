@@ -1,0 +1,4 @@
+# Choose/install a CPU or CUDA PyTorch build first, then install:
+# python -m pip install -r requirements.txt
+-e .[runtime]
+
